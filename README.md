@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindfrontend&label=Profile%20views&color=0e75b6&style=flat" alt="aravindfrontend" /> </p>
 
-- 🔭 I’m currently working on **space project**
+- 🔭 I’m currently working on **e-commerce project**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React,Next JS,Node Js**
 
 - 📫 How to reach me **aravindgraj197@gmail.com**
 
