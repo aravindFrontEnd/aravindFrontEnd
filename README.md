@@ -1,6 +1,6 @@
 <img align="center" src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif">
 <h1 align="center">Hi 👋, I'm Aravind Ganesh</h1>
-<h3 align="center">Meticulous web developer with over 6.5 years of front end experience.</h3>
+<h3 align="center">Meticulous web developer with over 7.5 years of front end experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindfrontend&label=Profile%20views&color=0e75b6&style=flat" alt="aravindfrontend" /> </p>
 
